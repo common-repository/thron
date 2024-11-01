@@ -1,0 +1,88 @@
+.components-modal__frame.thron-block-modal {
+	overflow: hidden;
+}
+
+.thron-block-modal {
+	width: 90%;
+	height: 90%;
+	position: relative;
+	overflow: hidden;
+}
+
+.thron-block-overlay {
+    width: 100%;
+    background: transparent;
+    height: 100%;
+    z-index: 9;
+    position: absolute;
+    left: 0;
+}
+
+.thron-block-modal .components-modal__content {
+	position: relative;
+}
+
+.thron-block-modal .wsthron-header {
+	min-height: 100px;
+	position: relative;
+}
+
+
+.thron-block-modal .wsthron-header .media-toolbar {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	height: auto !important;
+	padding: 5px;
+}
+
+.thron-block-modal .wsthron-header .media-toolbar-primary.search-form {
+	padding: 5px;
+	height: auto;
+}
+
+.thron-block-modal .wsthron-header .media-toolbar-secondary {
+	display: flex;
+	justify-content: flex-start;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.thron-block-modal .wsthron-header .media-toolbar-secondary .attachment-filters {
+	width: 30%;
+	max-width: none;
+	margin-right: 2%;
+	margin-bottom: 1%;
+}
+
+.thron-block-modal .wsthron-header .media-toolbar-secondary select {
+	min-height: 20px;
+	font-size: 12px;
+	max-height: 26px;
+}
+
+
+.thron-block-modal .modal-footer {
+	position: absolute;
+	bottom: 0;
+	left: 0px;
+	border-top: 1px solid #ddd;
+	min-height: 50px;
+	height: auto;
+	width: 100%;
+	text-align: right;
+	background: #f3f3f3;
+	display: inline-block;
+}
+
+.thron-block-modal .modal-footer button {
+	position: absolute;
+	right: 20px;
+	bottom: 7px;
+	color: #FFF !important;
+	background: #008ec2!important;
+	border-color: #008ec2!important;
+	box-shadow: none!important;
+	text-shadow: none!important;
+	cursor: default;
+}

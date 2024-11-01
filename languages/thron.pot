@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2020-05-26 16:27+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-thron-admin.php:567 admin/class-thron-admin.php:1456
+msgid "Edit image on THRON"
+msgstr ""
+
+#: admin/class-thron-admin.php:2628
+msgid "Upload the content in THRON"
+msgstr ""
+
+#: admin/class-thron-admin.php:2634
+msgid "upload the content in THRON"
+msgstr ""
+
+#: admin/class-thron-admin.php:276
+msgid "All"
+msgstr ""
+
+#: admin/class-thron-admin.php:277 admin/class-thron-admin.php:303
+msgid "All folders"
+msgstr ""
+
+#: admin/class-thron-admin.php:304
+msgid "All content"
+msgstr ""
+
+#: admin/class-thron-admin.php:305
+msgid "Content details"
+msgstr ""
+
+#: admin/class-thron-admin.php:306
+msgid "Player template"
+msgstr ""
+
+#: admin/class-thron-admin.php:307
+msgid "--Please select a template--"
+msgstr ""
+
+#: admin/class-thron-admin.php:308
+msgid "Embed type"
+msgstr ""
+
+#: admin/class-thron-admin.php:309
+msgid "Fixed size"
+msgstr ""
+
+#: admin/class-thron-admin.php:310
+msgid "Width (px)"
+msgstr ""
+
+#: admin/class-thron-admin.php:311
+msgid "Height (px)"
+msgstr ""
+
+#: admin/class-thron-admin.php:736
+msgid "THRON Universal Player"
+msgstr ""
+
+#: admin/class-thron-admin.php:737
+msgid "Insert"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-thron-setting.php:35
+msgid "THRON"
+msgstr ""
+
+#: admin/class-thron-setting.php:42
+msgid "App login"
+msgstr ""
+
+#: admin/class-thron-setting.php:43
+msgid "Log in with the THRON application logins"
+msgstr ""
+
+#: admin/class-thron-setting.php:49
+msgid "Client ID"
+msgstr ""
+
+#: admin/class-thron-setting.php:51
+msgid "Enter your domain"
+msgstr ""
+
+#: admin/class-thron-setting.php:56
+msgid "App ID"
+msgstr ""
+
+#: admin/class-thron-setting.php:57
+msgid "Enter the connector identifier"
+msgstr ""
+
+#: admin/class-thron-setting.php:63
+msgid "App Key"
+msgstr ""
+
+#: admin/class-thron-setting.php:64
+msgid "Enter the connector authentication key"
+msgstr ""
+
+#: admin/class-thron-setting.php:70
+msgid "Image settings"
+msgstr ""
+
+#: admin/class-thron-setting.php:77
+msgid "Default maximum width (px)"
+msgstr ""
+
+#: admin/class-thron-setting.php:78
+msgid "Maximum default size for images imported from THRON"
+msgstr ""
+
+#: admin/class-thron-setting.php:123
+msgid "Search option"
+msgstr ""
+
+#: admin/class-thron-setting.php:124
+msgid ""
+"Choose whether to use tags as search filters and set the root folder of "
+"WordPress content"
+msgstr ""
+
+#: admin/class-thron-setting.php:130
+msgid "Enable filtering"
+msgstr ""
+
+#: admin/class-thron-setting.php:136
+msgid "Enable tag filtering"
+msgstr ""
+
+#: admin/class-thron-setting.php:137
+msgid "Select the tags to be used for filtering"
+msgstr ""
+
+#: admin/class-thron-setting.php:149
+msgid "Select starting folder"
+msgstr ""
+
+#: admin/class-thron-setting.php:150
+msgid ""
+"Select the starting folder for content selection (subfolders will be "
+"included)"
+msgstr ""
+
+#: admin/class-thron-setting.php:197
+msgid "The connector has not been successfully configured!!"
+msgstr ""
+
+#: admin/class-thron-setting.php:219
+msgid "THRON has not been configured!"
+msgstr ""
+
+#: admin/class-thron-setting.php:225
+msgid "THRON login failed!"
+msgstr ""
+
+#: admin/class-thron-setting.php:231
+msgid ""
+"The application has not been configured correctly. Please contact technical "
+"support."
+msgstr ""
+
+#: Content type: Videos
+msgid "Videos"
+msgstr ""
+
+#: Content type: Images
+msgid "Images"
+msgstr ""
+
+#: Content type: Documents
+msgid "Document (Other)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Select the assets to insert within your pages directly from the DAM library"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.thron.com"
+msgstr ""

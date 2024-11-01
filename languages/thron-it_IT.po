@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: THRON\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-26 16:27+0000\n"
+"PO-Revision-Date: 2021-06-22 10:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1\n"
+
+#: admin/class-thron-admin.php:567 admin/class-thron-admin.php:1456
+msgid "Edit image on THRON"
+msgstr "Modifica l'immagine in THRON"
+
+#: admin/class-thron-admin.php:2628
+msgid "Upload the content in THRON"
+msgstr "Carica il contenuto su THRON"
+
+#: admin/class-thron-admin.php:2634
+msgid "upload the content in THRON"
+msgstr "carica il contenuto su THRON"
+
+#: admin/class-thron-admin.php:276
+msgid "All"
+msgstr "Tutti"
+
+#: admin/class-thron-admin.php:277 admin/class-thron-admin.php:303
+msgid "All folders"
+msgstr "Tutte le cartelle"
+
+#: admin/class-thron-admin.php:304
+msgid "All content"
+msgstr "Tutti i contenuti"
+
+#: admin/class-thron-admin.php:305
+msgid "Content details"
+msgstr "Dettagli del contenuto"
+
+#: admin/class-thron-admin.php:306
+msgid "Player template"
+msgstr "Template per il player"
+
+#: admin/class-thron-admin.php:307
+msgid "--Please select a template--"
+msgstr "--Seleziona un template--"
+
+#: admin/class-thron-admin.php:308
+msgid "Embed type"
+msgstr "Tipo di embed"
+
+#: admin/class-thron-admin.php:309
+msgid "Fixed size"
+msgstr "Dimensione fissa"
+
+#: admin/class-thron-admin.php:310
+msgid "Width (px)"
+msgstr "Larghezza (px)"
+
+#: admin/class-thron-admin.php:311
+msgid "Height (px)"
+msgstr "Altezza (px)"
+
+#: admin/class-thron-admin.php:736
+msgid "THRON Universal Player"
+msgstr "THRON Universal Player"
+
+#: admin/class-thron-admin.php:737
+msgid "Insert"
+msgstr "Inserisci"
+
+#. Name of the plugin
+#: admin/class-thron-setting.php:35
+msgid "THRON"
+msgstr "THRON"
+
+#: admin/class-thron-setting.php:42
+msgid "App login"
+msgstr "App login"
+
+#: admin/class-thron-setting.php:43
+msgid "Log in with the THRON application logins"
+msgstr "Esegui il login con gli accessi dell'applicazione THRON"
+
+#: admin/class-thron-setting.php:49
+msgid "Client ID"
+msgstr "Client ID"
+
+#: admin/class-thron-setting.php:51
+msgid "Enter your domain"
+msgstr "Inserisci il tuo dominio"
+
+#: admin/class-thron-setting.php:56
+msgid "App ID"
+msgstr "App ID"
+
+#: admin/class-thron-setting.php:57
+msgid "Enter the connector identifier"
+msgstr "Inserisci l'identificativo del connettore"
+
+#: admin/class-thron-setting.php:63
+msgid "App Key"
+msgstr "App Key"
+
+#: admin/class-thron-setting.php:64
+msgid "Enter the connector authentication key"
+msgstr "Inserisci la chiave di autenticazione del connettore"
+
+#: admin/class-thron-setting.php:70
+msgid "Image settings"
+msgstr "Opzioni immagini"
+
+#: admin/class-thron-setting.php:77
+msgid "Default maximum width (px)"
+msgstr "Larghezza massima di default (px)"
+
+#: admin/class-thron-setting.php:78
+msgid "Maximum default size for images imported from THRON"
+msgstr "Dimensione massima di default per le immagini importate da THRON"
+
+#: admin/class-thron-setting.php:123
+msgid "Search option"
+msgstr "Opzioni di ricerca"
+
+#: admin/class-thron-setting.php:124
+msgid ""
+"Choose whether to use tags as search filters and set the root folder of "
+"WordPress content"
+msgstr ""
+"Scegli se utilizzare i tag come filtri di ricerca e imposta la cartella "
+"principale dei contenuti WordPress"
+
+#: admin/class-thron-setting.php:130
+msgid "Enable filtering"
+msgstr "Abilita il filtraggio"
+
+#: admin/class-thron-setting.php:136
+msgid "Enable tag filtering"
+msgstr "Abilita il filtraggio per tag"
+
+#: admin/class-thron-setting.php:137
+msgid "Select the tags to be used for filtering"
+msgstr "Seleziona le tag da utilizzare per i filtraggi"
+
+#: admin/class-thron-setting.php:149
+msgid "Select starting folder"
+msgstr "Cartella di partenza"
+
+#: admin/class-thron-setting.php:150
+msgid ""
+"Select the starting folder for content selection (subfolders will be "
+"included)"
+msgstr ""
+"Seleziona la cartella di partenza per la selezione dei contenuti (verranno "
+"incluse anche le sottocartelle)"
+
+#: admin/class-thron-setting.php:197
+msgid "The connector has not been successfully configured!!"
+msgstr "Il connettore non è stato configurato correttamente!"
+
+#: admin/class-thron-setting.php:219
+msgid "THRON has not been configured!"
+msgstr "THRON non è stato configurato!"
+
+#: admin/class-thron-setting.php:225
+msgid "THRON login failed!"
+msgstr "Login fallito su THRON!"
+
+#: admin/class-thron-setting.php:231
+msgid ""
+"The application has not been configured correctly. Please contact technical "
+"support."
+msgstr ""
+"L'applicazione non è configurata correttamente. Contatta il supporto tecnico."
+
+#: Content type: Videos
+msgid "Videos"
+msgstr "Video"
+
+#: Content type: Images
+msgid "Images"
+msgstr "Immagini"
+
+#: Content type: Documents
+msgid "Document (Other)"
+msgstr "Documenti (altro)"
+
+#. Description of the plugin
+msgid ""
+"Select the assets to insert within your pages directly from the DAM library"
+msgstr ""
+"Seleziona gli asset da inserire all’interno delle tue pagine direttamente "
+"dalla libreria del DAM"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.thron.com"
+msgstr "https://www.thron.com"
+
+#~ msgid "Unable to get meta information for file."
+#~ msgstr "Impossibile ottenere le informazioni meta per questo file."
+
+msgid "Balance between image weight and resolution"
+msgstr "Bilanciamento tra il peso dell'immagine e la risoluzione"

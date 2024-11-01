@@ -1,0 +1,111 @@
+{
+  "domain": "thron",
+  "locale_data": {
+    "thron": {
+      "": {
+        "domain": "thron",
+        "plural-forms": "n != 1",
+        "lang": "it_IT"
+      },
+      "Select template": [
+        "Seleziona il template"
+      ],
+      "THRON Universal Player": [
+        "THRON Universal Player"
+      ],
+      "All content": [
+        "Tutti i contenuti"
+      ],
+      "Images": [
+        "Immagini"
+      ],
+      "Videos": [
+        "Video"
+      ],
+      "Audio": [
+        "Audio"
+      ],
+      "Playlist": [
+        "Playlist"
+      ],
+      "Pagelet": [
+        "Pagelet"
+      ],
+      "Document (Other)": [
+        "Documenti (altro)"
+      ],
+      "Apply": [
+        "Applica"
+      ],
+      "Cancel": [
+        "Annulla"
+      ],
+      "Width (px)": [
+        "Larghezza (px)"
+      ],
+      "Height (px)": [
+        "Altezza (px)"
+      ],
+      "Maintain aspect ratio": [
+        "Mantieni aspect ratio"
+      ],
+      "Select a content": [
+        "Seleziona un contenuto"
+      ],
+      "Select a content from THRON": [
+        "Seleziona un contenuto da THRON"
+      ],
+      "Choose a content from your THRON Library.": [
+        "Scegli un contenuto dalla tua libreria THRON."
+      ],
+      "Quality": [
+        "Qualità"
+      ],
+      "Brightness": [
+        "Luminosità"
+      ],
+      "Contrast": [
+        "Contrasto"
+      ],
+      "Sharpness": [
+        "Nitidezza"
+      ],
+      "Color": [
+        "Colore"
+      ],
+      "Search": [
+        "Cerca"
+      ],
+      "Insert content": [
+        "Inserisci"
+      ],
+      "THRON OPTION": [
+        "THRON OPTION"
+      ],
+      "default template": [
+        "THRON Customer Experience 1.x"
+      ],
+      "Image adjustments": [
+        "Regolazioni immagine"
+      ],
+      "RTIE Params": [
+        "RTIE Params"
+      ],
+      "Select embed type": [
+        "Tipo di embed"
+      ],
+      "Responsive": [
+        "Responsivo"
+      ],
+      "Fixed": [
+        "Dimensione fissa"
+      ],
+      "All folders": [
+        "Tutte le cartelle"
+      ],
+      "No result for this search": [
+        "Nessun risultato per questa ricerca"
+      ]
+    }
+  }
+}
